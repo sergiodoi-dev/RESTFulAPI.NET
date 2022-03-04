@@ -1,0 +1,10 @@
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.1\SocialMedia.Core.deps.json
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.1\SocialMedia.Core.dll
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.1\SocialMedia.Core.pdb
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.1\SocialMedia.Core.csproj.AssemblyReference.cache
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.1\SocialMedia.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.1\SocialMedia.Core.AssemblyInfoInputs.cache
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.1\SocialMedia.Core.AssemblyInfo.cs
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.1\SocialMedia.Core.csproj.CoreCompileInputs.cache
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.1\SocialMedia.Core.dll
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.1\SocialMedia.Core.pdb

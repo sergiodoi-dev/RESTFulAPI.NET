@@ -1,0 +1,13 @@
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.1\SocialMedia.Infrastructure.deps.json
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.1\SocialMedia.Infrastructure.dll
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.1\SocialMedia.Infrastructure.pdb
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.1\SocialMedia.Core.dll
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.1\SocialMedia.Core.pdb
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.1\SocialMedia.Infrastructure.csproj.AssemblyReference.cache
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.1\SocialMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.1\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.1\SocialMedia.Infrastructure.AssemblyInfo.cs
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.1\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.1\SocialMedia.Infrastructure.csproj.CopyComplete
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.1\SocialMedia.Infrastructure.dll
+D:\Sergio\Bootcamp\2019-vssources\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.1\SocialMedia.Infrastructure.pdb
